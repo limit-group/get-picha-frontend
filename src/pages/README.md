@@ -1,0 +1,1 @@
+# react-router-dom paths accessed while navigating through the application
